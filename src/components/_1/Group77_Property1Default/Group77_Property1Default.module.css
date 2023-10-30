@@ -1,0 +1,59 @@
+.root {
+  position: absolute;
+  left: 20px;
+  top: 20px;
+  width: 414.8961px;
+  height: 517.0804px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.rectangle1070 {
+  transform-origin: top left;
+  position: absolute;
+  left: 3.6911%;
+  right: 10.7453%;
+  top: 9.4744%;
+  bottom: -0.176%;
+  background-color: #161616, #fff;
+  transform: matrix(0.9951, -0.0988, 0.0988, 0.9951, 0, 0);
+}
+.rectangle1071 {
+  transform-origin: top left;
+  position: absolute;
+  left: 0;
+  right: 14.4364%;
+  top: 7.0476%;
+  bottom: 2.2509%;
+  outline: solid 3px #161616;
+  outline-offset: -3px;
+  background-color: #fff, #fff;
+  transform: matrix(0.9951, -0.0988, 0.0988, 0.9951, 0, 0);
+}
+.rectangle1072 {
+  transform-origin: top left;
+  position: absolute;
+  left: 6.1829%;
+  right: 19.3406%;
+  top: 11.9968%;
+  bottom: 21.2824%;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle1072.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  transform: matrix(0.9951, -0.0988, 0.0988, 0.9951, 0, 0);
+}
+.organized {
+  transform-origin: top left;
+  color: #000;
+  font-size: 40px;
+  line-height: 128.7705%;
+  font-family: Retro Gaming, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 20.8911%;
+  right: 16.6836%;
+  top: 81.9553%;
+  bottom: 3.5402%;
+  flex-direction: column;
+  transform: matrix(0.9951, -0.0988, 0.0988, 0.9951, 0, 0);
+}
